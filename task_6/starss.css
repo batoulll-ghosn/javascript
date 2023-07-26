@@ -1,0 +1,26 @@
+body {
+    background-color: blue;
+    margin: 10px 500px;
+}
+.center{
+    background-color: white;
+    width:fit-content;
+    padding: 10px;
+}
+.blabla{
+    padding: 5px;
+    justify-content: center;
+}
+.b{
+    border-color: black;
+    padding: 20px;
+    border-radius: 50%;
+}
+.submit{
+    padding: 10px 10px;
+}
+.sisi{
+    padding: 5px 120px;
+    background-color: #0e0a30;
+    color: antiquewhite;
+}
