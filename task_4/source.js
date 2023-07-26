@@ -1,0 +1,10 @@
+const Array1=[30,5,4,843];
+const Array2=new Array('html','javascript','css','scss');
+const Array3=new Array(4);
+Array3.push('html');
+Array3.push('843');
+Array3.push('css');
+Array3.push('50');
+console.log('Array containing number'+""+ Array1);
+console.log('Array containing strings'+ ""+ Array2);
+console.log('Array containing number and strings'+""+ Array3);
