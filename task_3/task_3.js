@@ -13,4 +13,4 @@ if(canPass){
             console.log('Try Again!');
         }
 num2=7;
-console.log('new value for num2'+ num2);
+console.log('new value for num2'+" " + num2);
